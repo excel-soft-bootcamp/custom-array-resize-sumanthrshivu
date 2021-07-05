@@ -1,0 +1,11 @@
+F:\c# training\ArrayUtility\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtilityProgram.deps.json
+F:\c# training\ArrayUtility\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtilityProgram.runtimeconfig.json
+F:\c# training\ArrayUtility\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtilityProgram.runtimeconfig.dev.json
+F:\c# training\ArrayUtility\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtilityProgram.dll
+F:\c# training\ArrayUtility\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtilityProgram.pdb
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.csprojAssemblyReference.cache
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.csproj.CoreCompileInputs.cache
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.AssemblyInfoInputs.cache
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.AssemblyInfo.cs
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.dll
+F:\c# training\ArrayUtility\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtilityProgram.pdb
